@@ -1,0 +1,8 @@
+1.- Hacer que turtle dibuje un rectangulo de acuerdo al tamaño real de la pieza, no un rectangulo predefinido (para esto obvio necesito int())
+2.- Dibujar el veio dentro de la forma y obviamente en la dirección indicada
+3.- Guardar un str() de las dimensiones de la chapa junto al dibujo que lo representa (tal vez en un html y la info la guardo en DB)
+4.- En caso de que quieras borrar una chapa de la DB porque ya la usaste o la pusieron por error, poder hacerlo con tan solo seleccionarla 
+y presionar eliminar (solo cuando ya tenga la interfaz hecha, aunque claro primero haré la lógica en python puro para tener una idea)
+5.- Si quieres editar las dimensiones de una chapa porque la usaste pero no la usaste completa solo tocarla y sobreescribir el texto y guardar
+
+tkm<3
