@@ -24,11 +24,11 @@ def grafico2():
 
 if veio == dim_sep[0]:
     print('El veio apunta hacia ' + dim_sep[0])
-    grafico()
-
-if veio == dim_sep[1]:
-    print('El veio apunta hacia ' + dim_sep[1])
-    grafico2()
+  grafico ()
+  
+    else:
+        print(f'El veio apunta hacia{dim_sep[1]}')
+        grafico2()
 
 if veio == 0:
     print('Pieza sin veio')
